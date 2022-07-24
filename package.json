@@ -28,7 +28,7 @@
   "dependencies": {
     "@sencha/ext": "~7.3.0",
     "@sencha/ext-modern": "~7.3.0",
-    "@sencha/ext-modern-theme-material": "~7.3.0",
+    "@sencha/ext-modern-theme-material": "~7.3.0", 
     "fusioncharts": "^3.17.0"
   },
   "devDependencies": {
